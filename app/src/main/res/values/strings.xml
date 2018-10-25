@@ -14,4 +14,8 @@
     <string name="get_started">GET STARTED</string>
     <string name="go_all_in_background">Go All In Background</string>
     <string name="swoosh_logo">Swoosh Logo</string>
+    <string name="i_am_a">I am a:</string>
+    <string name="beginner">Beginner</string>
+    <string name="baller">Baller</string>
+    <string name="finish">Finish</string>
 </resources>
